@@ -1,3 +1,13 @@
+## nytpu's notes:
+
+* you need to be using the chip.jfpossibilities.com repos before running this.
+  [see here](http://chip.jfpossibilities.com/chip/debian/)
+* **Do not attempt to install this if you're not on Debian Jessie**.  It *will*
+  break your system in unpredictable ways.  If you're upgrading a system from
+  a fresh flash, install PocketDesk before updating to Stretch/Buster.
+
+----------
+
 # PocketDESK - Unify your PocketCHIP
 
 ![PocketDESKlogo](images/PocketDESKlogo.png)
