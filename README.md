@@ -1,3 +1,4 @@
+[Forked from AllGray's PocketDesk](https://github.com/AllGray/PocketDesk)
 ## nytpu's notes:
 
 * you need to be using the chip.jfpossibilities.com repos before running this.
