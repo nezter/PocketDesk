@@ -1,6 +1,6 @@
 # PocketDESK - Unify your PocketCHIP
 
-![PocketDESKlogo](https://github.com/AllGray/PocketDesk/blob/master/images/PocketDESKlogo.PNG)
+![PocketDESKlogo](images/PocketDESKlogo.PNG)
 ## A DESKTOP WHEN YOU WANT IT, POCKETHOME WHEN YOU DON’T
 
 ![PocketDESK](https://blog.nextthing.co/wp-content/uploads/2017/09/pdesktop6B-1024x683.jpg)
@@ -28,7 +28,7 @@ Just run
 
     sudo apt update && sudo apt install git
 
-    git clone https://github.com/AllGray/PocketDesk.git
+    git clone git://git.nytpu.com/forks/PocketDesk
 
     sudo ./PocketDesk/PocketDESK.sh
 
@@ -47,18 +47,18 @@ To do this simply log out of whatever you booted into
 
 **PocketHome:** (_See.. I put a button there for you'all_)
 
-![PocketHome_logout](https://github.com/AllGray/AllGray_Private/blob/master/gif/PocketHome_logout.gif)
+![PocketHome_logout](gif/PocketHome_logout.gif)
 
 
 **Desktop:** 
 
-![Desktop_logout](https://github.com/AllGray/AllGray_Private/blob/master/gif/Desktop_logout.gif)
+![Desktop_logout](gif/Desktop_logout.gif)
 
 
 
 In the login manager you click and choose the desired **GUI** version:
 
-![Change_wm](https://github.com/AllGray/AllGray_Private/blob/master/gif/change_wm.gif)
+![Change_wm](gif/change_wm.gif)
 
 
 

@@ -7,7 +7,7 @@ In the terminal type:
 
 `sudo apt update && sudo apt install git`
 
-`git clone https://github.com/AllGray/PocketDesk.git`
+`git clone git://git.nytpu.com/forks/PocketDesk`
 
 `sudo ./PocketDesk/PocketDESKlite.sh`
 
