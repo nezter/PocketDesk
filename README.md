@@ -1,11 +1,11 @@
 # PocketDESK - Unify your PocketCHIP
 
-![PocketDESKlogo](images/PocketDESKlogo.PNG)
+![PocketDESKlogo](images/PocketDESKlogo.png)
 ## A DESKTOP WHEN YOU WANT IT, POCKETHOME WHEN YOU DON’T
 
 ![PocketDESK](https://blog.nextthing.co/wp-content/uploads/2017/09/pdesktop6B-1024x683.jpg)
 
-Looking for PocketDESKlite? Look here: [PocketDESKlite](https://github.com/AllGray/PocketDesk/blob/master/PocketDESKlite.sh)
+Looking for PocketDESKlite? Look here: [PocketDESKlite](PocketDESKlite.md)
 
 ----------
 
