@@ -8,4 +8,4 @@ apt-get -y --force-yes update
 apt-get -y --force-yes install pocket-home
 mkdir /home/chip/.pocket-home/
 wget -O /home/chip/.pocket-home/config.json https://git.nytpu.com/forks/PocketDesk/plain/files/config.json
-sudo chown -R chip: .pocket-home/
+chown -R chip: ~chip/.pocket-home/
